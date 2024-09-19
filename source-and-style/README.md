@@ -1,4 +1,6 @@
 Website: Europeana
+https://www.europeana.eu/en
+
 Web Technologies Used
 * HTML: Europeana's structure is built using HTML. Upon opening the Developer Tools and looking under the Elements tab, I found various HTML elements like <div>, <header>, <section>, and <footer>. These tags form the basic building blocks of the webpage.
 * CSS: The site uses CSS to style its content. By checking the <head> section in the page source, I found multiple <link> tags pointing to .css files. These stylesheets handle the layout, fonts, colors, and overall design.
