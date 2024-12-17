@@ -1,0 +1,297 @@
+{
+    "SWAPI_Character": {
+        "name": "Luke Skywalker",
+        "height": "172",
+        "mass": "77",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "19BBY",
+        "gender": "male",
+        "homeworld": "https://swapi.py4e.com/api/planets/1/",
+        "films": [
+            "https://swapi.py4e.com/api/films/1/",
+            "https://swapi.py4e.com/api/films/2/",
+            "https://swapi.py4e.com/api/films/3/",
+            "https://swapi.py4e.com/api/films/6/",
+            "https://swapi.py4e.com/api/films/7/"
+        ],
+        "species": [
+            "https://swapi.py4e.com/api/species/1/"
+        ],
+        "vehicles": [
+            "https://swapi.py4e.com/api/vehicles/14/",
+            "https://swapi.py4e.com/api/vehicles/30/"
+        ],
+        "starships": [
+            "https://swapi.py4e.com/api/starships/12/",
+            "https://swapi.py4e.com/api/starships/22/"
+        ],
+        "created": "2014-12-09T13:50:51.644000Z",
+        "edited": "2014-12-20T21:17:56.891000Z",
+        "url": "https://swapi.py4e.com/api/people/1/"
+    },
+    "Europeana_Item": {
+        "completeness": 0,
+        "country": [
+            "Germany"
+        ],
+        "dataProvider": [
+            "Museum of European Cultures, Staatliche Museen zu Berlin"
+        ],
+        "dcContributor": [
+            "Fa. Hasbro (Hersteller)"
+        ],
+        "dcContributorLangAware": {
+            "de": [
+                "Fa. Hasbro (Hersteller)"
+            ]
+        },
+        "dcTitleLangAware": {
+            "de": [
+                "Luke Skywalker"
+            ]
+        },
+        "dcTypeLangAware": {
+            "de": [
+                "Spielfigur \"Star Wars\"",
+                "Spielfiguren"
+            ],
+            "def": [
+                "http://udcdata.info/064676"
+            ]
+        },
+        "dctermsSpatial": [
+            "Erwerbungsort: Berlin",
+            "Herstellungsort: China",
+            "Firmensitz: USA"
+        ],
+        "edmConcept": [
+            "http://data.europeana.eu/concept/1796"
+        ],
+        "edmConceptLabel": [
+            {
+                "def": "Kunststoff"
+            },
+            {
+                "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+            },
+            {
+                "def": "Muovi"
+            },
+            {
+                "def": "Pl\u00e1stico"
+            },
+            {
+                "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+            },
+            {
+                "def": "Plastikas"
+            },
+            {
+                "def": "Plastmasas"
+            },
+            {
+                "def": "Plastika"
+            },
+            {
+                "def": "Mati\u00e8re plastique"
+            },
+            {
+                "def": "M\u0171anyag"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Plastika"
+            },
+            {
+                "def": "Plaisteach"
+            },
+            {
+                "def": "Pl\u00e0stic"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+            },
+            {
+                "def": "Plastic"
+            },
+            {
+                "def": "Materie plastiche"
+            },
+            {
+                "def": "Pl\u00e1stico"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Plastiko"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Tworzywo sztuczne"
+            },
+            {
+                "def": "Mas\u0103 plastic\u0103"
+            },
+            {
+                "def": "Plast"
+            },
+            {
+                "def": "Kunststof"
+            }
+        ],
+        "edmConceptPrefLabelLangAware": {
+            "de": [
+                "Kunststoff"
+            ],
+            "ru": [
+                "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+            ],
+            "fi": [
+                "Muovi"
+            ],
+            "pt": [
+                "Pl\u00e1stico"
+            ],
+            "bg": [
+                "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+            ],
+            "lt": [
+                "Plastikas"
+            ],
+            "lv": [
+                "Plastmasas"
+            ],
+            "hr": [
+                "Plastika"
+            ],
+            "fr": [
+                "Mati\u00e8re plastique"
+            ],
+            "hu": [
+                "M\u0171anyag"
+            ],
+            "sk": [
+                "Plast"
+            ],
+            "sl": [
+                "Plastika"
+            ],
+            "ga": [
+                "Plaisteach"
+            ],
+            "ca": [
+                "Pl\u00e0stic"
+            ],
+            "sv": [
+                "Plast"
+            ],
+            "el": [
+                "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+            ],
+            "en": [
+                "Plastic"
+            ],
+            "it": [
+                "Materie plastiche"
+            ],
+            "es": [
+                "Pl\u00e1stico"
+            ],
+            "et": [
+                "Plast"
+            ],
+            "eu": [
+                "Plastiko"
+            ],
+            "cs": [
+                "Plast"
+            ],
+            "pl": [
+                "Tworzywo sztuczne"
+            ],
+            "ro": [
+                "Mas\u0103 plastic\u0103"
+            ],
+            "da": [
+                "Plast"
+            ],
+            "nl": [
+                "Kunststof"
+            ]
+        },
+        "edmDatasetName": [
+            "2064108_SMB"
+        ],
+        "edmIsShownAt": [
+            "http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1399464"
+        ],
+        "edmIsShownBy": [
+            "http://www.smb-digital.de/eMuseumPlus?service=ImageAsset&module=collection&objectId=1399464&resolution=superImageResolution#2591470"
+        ],
+        "edmPreview": [
+            "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.smb-digital.de%2FeMuseumPlus%3Fservice%3DImageAsset%26module%3Dcollection%26objectId%3D1399464%26resolution%3DsuperImageResolution%232591470&type=IMAGE"
+        ],
+        "edmTimespan": [
+            "#2007"
+        ],
+        "edmTimespanLabel": [
+            {
+                "def": "2007"
+            }
+        ],
+        "edmTimespanLabelLangAware": {
+            "zxx": [
+                "2007"
+            ]
+        },
+        "europeanaCollectionName": [
+            "2064108_SMB"
+        ],
+        "europeanaCompleteness": 0,
+        "guid": "https://www.europeana.eu/item/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464?utm_source=api&utm_medium=api&utm_campaign=drocketah",
+        "id": "/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464",
+        "index": 0,
+        "language": [
+            "mul"
+        ],
+        "link": "https://api.europeana.eu/record/2064108/Museu_ProvidedCHO_Museum_Europ_ischer_Kulturen__Staatliche_Museen_zu_Berlin_DE_MUS_018719_1399464.json?wskey=drocketah",
+        "organizations": [
+            "http://data.europeana.eu/organization/1482250000004510499",
+            "http://data.europeana.eu/organization/1482250000004671142",
+            "http://data.europeana.eu/organization/1482250000044966034"
+        ],
+        "previewNoDistribute": false,
+        "provider": [
+            "MUSEU"
+        ],
+        "rights": [
+            "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+        ],
+        "score": 199.06503,
+        "timestamp": 1688606191745,
+        "timestamp_created": "2020-08-24T09:45:34.253Z",
+        "timestamp_created_epoch": 1598262334253,
+        "timestamp_update": "2020-08-24T09:45:34.253Z",
+        "timestamp_update_epoch": 1598262334253,
+        "title": [
+            "Luke Skywalker"
+        ],
+        "type": "IMAGE",
+        "ugc": [
+            false
+        ],
+        "year": [
+            "2007"
+        ]
+    }
+}
